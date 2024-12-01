@@ -1,0 +1,49 @@
+.rectangle1 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 16px;
+  height: 83px;
+
+  background: #262626;
+  border: 2px solid #d9d9d9;
+}
+
+.rectangle2 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 16px;
+  height: 83px;
+
+  background: #262626;
+  border: 2px solid #d9d9d9;
+}
+
+.rectangle3 {
+  position: absolute;
+  width: 16px;
+  height: 83px;
+
+  background: #d9d9d9;
+}
+
+.rectangle4 {
+  position: absolute;
+  width: 16px;
+  height: 83px;
+
+  background: #d9d9d9;
+}
+
+.rectangle5 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 17px;
+  height: 123.44px;
+
+  background: #262626;
+  border: 2px solid #d9d9d9;
+  transform: matrix(0.65, 0.76, -0.85, 0.53, 0, 0);
+}

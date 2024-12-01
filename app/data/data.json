@@ -1,0 +1,184 @@
+[
+  {
+    "ID": 1,
+    "Name": "Winter Lantern",
+    "Country": "USA",
+    "City": "North Carolina",
+    "Link": "https://winterlantern.bandcamp.com/"
+  },
+  {
+    "ID": 2,
+    "Name": "Ashen Chalice",
+    "Country": "Croatia",
+    "City": "Karlovac",
+    "Link": "https://ashenchalice.bandcamp.com/"
+  },
+  {
+    "ID": 3,
+    "Name": "Dawn Ray’d",
+    "Country": "UK",
+    "City": "Liverpool",
+    "Link": "https://dawnrayd.bandcamp.com/"
+  },
+  {
+    "ID": 4,
+    "Name": "Vociferatus",
+    "Country": "Brazil",
+    "City": "Rio de Janeiro",
+    "Link": "https://vociferatus.bandcamp.com/"
+  },
+  {
+    "ID": 5,
+    "Name": "Ragana",
+    "Country": "USA",
+    "City": "California",
+    "Link": "https://ragana.bandcamp.com/"
+  },
+  {
+    "ID": 6,
+    "Name": "Underdark",
+    "Country": "UK",
+    "City": "Nottingham",
+    "Link": "https://underdark.bandcamp.com/"
+  },
+  {
+    "ID": 7,
+    "Name": "Inherits the Void",
+    "Country": "France",
+    "City": "Clermont-Ferrand",
+    "Link": "https://inheritsthevoid.bandcamp.com/"
+  },
+  {
+    "ID": 8,
+    "Name": "Wretched Blessing",
+    "Country": "USA",
+    "City": "Illinois",
+    "Link": "https://wretchedblessing.bandcamp.com/"
+  },
+  {
+    "ID": 9,
+    "Name": "Summoning",
+    "Country": "Austria",
+    "City": "Vienna",
+    "Link": "https://summoning.bandcamp.com/"
+  },
+  {
+    "ID": 10,
+    "Name": "Human Abyss",
+    "Country": "Germany ",
+    "City": "Berlin",
+    "Link": "https://humanabyss.bandcamp.com/"
+  },
+  {
+    "ID": 11,
+    "Name": "Feminazgul",
+    "Country": "USA",
+    "City": "North Carolina",
+    "Link": "https://feminazgul.bandcamp.com/"
+  },
+  {
+    "ID": 12,
+    "Name": "Bull of Apis Bull of Bronze",
+    "Country": "USA",
+    "City": "Colorado",
+    "Link": "https://bullofapisbullofbronze.bandcamp.com/"
+  },
+  {
+    "ID": 13,
+    "Name": "Lust Hag",
+    "Country": "USA",
+    "City": "Minnesota",
+    "Link": "https://eleanorharper.bandcamp.com/"
+  },
+  {
+    "ID": 14,
+    "Name": "Ulva",
+    "Country": "Greece",
+    "City": "Karditsa",
+    "Link": "https://ulva.bandcamp.com/"
+  },
+  {
+    "ID": 15,
+    "Name": "Gråt Strigoi",
+    "Country": "Scotland",
+    "City": "Glasgow",
+    "Link": "https://gratstrigoi.bandcamp.com/"
+  },
+  {
+    "ID": 16,
+    "Name": "Dysthymia",
+    "Country": "USA",
+    "City": "Massachusettes",
+    "Link": "https://dysthymiaband.bandcamp.com/"
+  },
+  {
+    "ID": 17,
+    "Name": "Nattfly",
+    "Country": "Sweden",
+    "City": "",
+    "Link": "https://nattfly.bandcamp.com/"
+  },
+  {
+    "ID": 18,
+    "Name": "Bury Them and Keep Quiet",
+    "Country": "USA",
+    "City": "New York",
+    "Link": "https://burythemandkeepquiet.bandcamp.com/"
+  },
+  {
+    "ID": 19,
+    "Name": "Arde",
+    "Country": "Germany ",
+    "City": "Berlin",
+    "Link": "https://ardeberlin.bandcamp.com/"
+  },
+  {
+    "ID": 20,
+    "Name": "Rană",
+    "Country": "Germany",
+    "City": "Hanover",
+    "Link": "https://ranacrust.bandcamp.com/"
+  },
+  {
+    "ID": 21,
+    "Name": "No Sun Rises",
+    "Country": "Germany ",
+    "City": "Göttingen",
+    "Link": "https://no-sun-rises.bandcamp.com/"
+  },
+  {
+    "ID": 22,
+    "Name": "Seas of Winter",
+    "Country": "USA",
+    "City": "",
+    "Link": "https://seasofwinter.bandcamp.com/"
+  },
+  {
+    "ID": 23,
+    "Name": "Seth",
+    "Country": "France",
+    "City": "Bordeaux",
+    "Link": "https://innomineseth.bandcamp.com/"
+  },
+  {
+    "ID": 24,
+    "Name": "Order of the Wolf",
+    "Country": "Scotland",
+    "City": "Fife",
+    "Link": "https://orderofthewolf.bandcamp.com/"
+  },
+  {
+    "ID": 25,
+    "Name": "Pure Wrath",
+    "Country": "West Java",
+    "City": "Indonesia",
+    "Link": "https://purewrath.bandcamp.com/"
+  },
+  {
+    "ID": 26,
+    "Name": "Fukpig",
+    "Country": "UK",
+    "City": "Birmingham",
+    "Link": "https://fukpig.bandcamp.com/"
+  }
+]

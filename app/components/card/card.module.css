@@ -1,0 +1,12 @@
+.card_wrapper {
+  max-width: 800px;
+  height: 300px;
+}
+.card_image {
+}
+.card_title {
+}
+.card_text {
+  display: flex;
+  justify-content: space-between;
+}
