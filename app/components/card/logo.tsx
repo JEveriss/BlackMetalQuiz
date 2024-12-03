@@ -25,7 +25,7 @@ import image23 from "../../data/BlackMetalLogos/23.jpg";
 import image24 from "../../data/BlackMetalLogos/24.jpg";
 import image25 from "../../data/BlackMetalLogos/25.jpg";
 import image26 from "../../data/BlackMetalLogos/26.jpg";
-
+import styles from "./card.module.css";
 const images = [
   image1,
   image2,
@@ -55,17 +55,16 @@ const images = [
   image26,
 ];
 
-type Props = { imageID: number };
+type Props = { imageID: number; name: string };
 
-export function Logo({ imageID }: Props) {
+export function Logo({ imageID, name }: Props) {
   return (
-
-      <Image
-        height={400}
-        // width={500}
-        alt={"image"}
-        src={images[imageID - 1]}
-      ></Image>
-
+    <Image
+      height={400}
+      className={styles.image_wrapper}
+      // layout="responsive"
+      alt={name}
+      src={images[imageID - 1]}
+    ></Image>
   );
 }
